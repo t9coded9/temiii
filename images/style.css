@@ -1,0 +1,28 @@
+.ft{
+    width: 200px;
+    display: flex;
+
+}
+
+.fx{
+    width: 200px;
+    display: flex;
+
+}
+
+.tf{
+    width: 200px;
+    display: flex;
+    
+}
+
+#con{
+    justify-content: end;
+    width: 80%;
+    position: relative;
+    left: 400px;
+}
+img{width: 900px;
+    height: 200px;
+
+}

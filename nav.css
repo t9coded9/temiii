@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#head{
+    padding: 20px 20px 20px 60px;
+}
+#first{
+    padding-bottom: 40px;
+}
+#first h3{
+    font-size: 50px;
+
+}
+#first p{
+    letter-spacing: 5px;
+}
+.fl{
+    list-style: none;
+    padding-bottom: 14px;
+}
+#but{
+    padding-bottom: 60px;
+    padding-top: 20px;
+    
+}
+button{
+    display: block;
+    
+}
+.bt{
+    padding: 10px 30px 10px 30px;
+    background-color: #e3c207;
+    color: white;
+    border: white;
+}
+.tb{
+    padding: 10px 34px 10px 34px;
+    background-color: black;
+    color: white;
+    border: white;
+
+}
+.sl{
+    list-style: none;
+    padding-bottom: 10px;
+}
+sl span{
+    font-size: 5px;
+}
+#is{
+    padding-bottom: 40px;
+}
+#con{
+    padding-right: 25px;
+}
+.con{
+    padding-bottom: 60px;
+}
